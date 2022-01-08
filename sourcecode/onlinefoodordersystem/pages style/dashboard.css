@@ -1,0 +1,100 @@
+*
+{
+    padding:0;
+    margin:0;
+    box-sizing: border-box;
+}
+        
+body
+{
+    background:lightgray;
+    font-family:sans-serif;
+    width:100%;
+    min-width:1349px;
+    height:100%;
+    min-height: 640px;
+}
+
+div#box0
+{
+    margin: auto;
+    background-color: #D6CFCE;
+    width:1100px;
+    min-width:1100px;
+    min-height: 200px;
+}
+
+div#box1
+{
+    margin: auto;
+    background-color: #D6CFCE;
+    width:1000px;
+    min-width:1000px;
+    min-height: 100px;
+}
+
+.table1
+{
+    margin: 0 auto;
+}
+
+.detailtable
+{
+   margin: 0 auto;
+}
+
+div#paymentbox
+{
+  font-size: 180%;
+  background-color: #D6CFCE;
+  width: 500px;
+  min-width: 500px;;
+  height: 380px; 
+  margin: 0 auto;
+}
+
+div#personalinfo
+{
+  font-size: 180%;
+  background-color: #D6CFCE;
+  width: 500px;
+  min-width: 500px;;
+  height: 300px; 
+  float: left;
+}
+
+div#personalinfo1
+{
+  font-size: 180%;
+  background-color: #D6CFCE;
+  width: 600px;
+  min-width: 600px;;
+  height: 300px; 
+  min-height: 300px;
+  float: right;
+}
+
+div#password
+{
+  font-size: 180%;
+  background-color: #D6CFCE;
+  width: 900px;
+  min-width: 900px;;
+  height: 350px; 
+  min-height: 350px;
+  margin: 0 auto;
+}
+
+div#deleteyouraccount
+{
+  font-size: 180%;
+  background-color: #D6CFCE;
+  width: 700px;
+  min-width: 700px;;
+  height: 200px; 
+  min-height: 200px;
+  margin: 0 auto;
+}
+
+
+

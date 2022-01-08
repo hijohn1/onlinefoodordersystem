@@ -1,0 +1,77 @@
+div#selectionmenu
+{
+	
+	width: 100%;
+	min-width: 1380px;
+	height:40px;
+	min-height:40px;
+	background: rgba(250,250,255,.8);
+  box-shadow: 0 15px 20px rgba(0,0,0,2);
+  position: fixed;
+}
+
+li
+{  
+	display: inline;
+}
+
+.text
+{
+	text-decoration: none;
+	color: black;
+	font-size: 110%;
+}
+
+li#home
+{
+  margin-left:3%;
+  font-size: 110%;
+}
+
+li#contactus
+{
+  margin-left:3%;
+  font-size: 110%;
+}
+
+li#aboutus
+{
+  margin-left:3%;
+  font-size: 110%;
+}
+
+li#login
+{
+	margin-left: 50%;
+}
+
+li#signin
+{
+	margin-left: 2%;
+}
+
+
+li#hi
+{
+  margin-left: 40%;
+  font-size: 110%;
+}
+
+
+li#userid
+{
+  font-size: 110%;
+}
+
+li#cart
+{
+  margin-left: 1%;
+}
+
+li#logout
+{
+  margin-left: 1%;
+}
+
+
+

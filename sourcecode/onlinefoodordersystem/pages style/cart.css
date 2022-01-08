@@ -1,0 +1,224 @@
+*
+{
+    padding:0;
+    margin:0;
+    box-sizing: border-box;
+}
+        
+body
+{
+    background:lightgray;
+    font-family:sans-serif;
+    width:100%;
+    min-width:1349px;
+    height:100%;
+    min-height: 640px;
+}
+
+div#cart
+{
+    margin: 0 auto;
+    background-color: #D6CFCE;
+    width:1100px;
+    min-width:1100px;
+    height: 200px;
+}
+
+div#insidecart
+{
+    margin:0 auto;
+    background-color: #D6CFCE;
+    width:1000px;
+    min-width:1000px;
+    height: 140px;
+}
+
+p#cartf
+{
+    font-size: 400%;
+}
+
+p#oops
+{
+    font-size: 130%;
+}
+
+a#ordernow
+{
+    text-decoration: none;
+}
+
+table
+{
+  margin-left: auto;
+  margin-right: auto;
+  width: 900px;
+}
+
+a#delete
+{
+    text-decoration: none;
+    font-weight: 700;
+    color: #423E3E;
+}
+
+
+div#carttable
+{
+    float: left;
+    width: 880px;
+    min-width: 880px;;
+    background: rgba(255,255,255,.4);
+    box-shadow: 0 15px 20px rgba(0,0,0,0);
+    margin-left:20px;
+    margin-bottom:25px;
+}
+
+div#carttable1
+{
+    float: right;
+    width: 300px;
+    height: 200px;
+    min-width: 300px;
+    min-height: 200px;
+    background: rgba(255,255,255,.4);
+    box-shadow: 0 15px 20px rgba(0,0,0,0);
+    margin-right: 50px;
+}
+
+p#amount
+{
+    margin-top: 20px;
+    margin-left: 20px;
+    font-size: 25px;
+}
+
+p#money
+{
+    margin-top: 10px;
+    margin-left: 160px;
+    font-size: 25px;
+}
+
+div#checkout
+{
+    width: 200px;
+    min-width: 200px;
+    height: 30px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 30px;
+    text-align: center;
+    background-color: yellow;
+    line-height: 29px;
+    border-radius: 200px;
+}
+
+p#checkoutfont
+{
+    font-size: 25px;
+}
+
+a#checkoutlink
+{
+    text-decoration: none;
+    color: red;
+}
+
+p#cartf1
+{
+    font-size: 30px;
+}
+
+p#cartamount
+{
+    font-size: 30px;
+}
+
+
+div#payinfo
+{
+    width: 450;
+    min-width: 400px;
+    height: 370;
+    min-height: 370px;
+    margin-left: 200px;
+    background: rgba(255,255,255,.4);
+    box-shadow: 0 15px 20px rgba(0,0,0,0);
+    font-size: 20px;
+    float: left;
+}
+
+div#payinfo1
+{
+   margin-left: 40px;
+}
+
+div#deliveryinfo
+{
+    width: 470;
+    min-width: 470px;
+    height: 370;
+    min-height: 370px;
+    margin-right: 200px;
+    background: rgba(255,255,255,.4);
+    box-shadow: 0 15px 20px rgba(0,0,0,0);
+    font-size: 20px;
+    float: right;
+}
+
+div#deliveryinfo1
+{
+   margin-left: 40px;
+}
+
+input#confirm
+{
+    width: 90px;
+    height: 30px;
+    background-color: yellow;
+    border-radius: 30px;
+    margin-left: 130px;
+    border-width: 1px;
+}
+
+span#star
+{
+    color: red;
+}
+
+span#email
+{
+    font-size: 20px;
+    color: red;
+}
+
+span#phone
+{
+    font-size: 20px;
+    color: red;
+}
+
+span#card
+{
+    font-size: 20px;
+    color: red;
+}
+
+p#thankyou
+{
+    font-size: 360%;
+}
+
+p#orderagain
+{
+    font-size: 200%;
+}
+
+a#orderagainlink
+{
+    text-decoration: none;
+}
+
+
+

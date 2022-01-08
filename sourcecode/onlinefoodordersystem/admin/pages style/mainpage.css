@@ -1,0 +1,219 @@
+body
+{
+    background-color: #EADBDB;
+    width:99%;
+    min-width:1341px;
+    height:100%;
+    min-height: 600px;
+}
+
+#box1
+{
+  font-size: 180%;
+  background-color: #352D2B;  
+  width: 99%;
+  min-width: 1330px;;
+  height: 50px; 
+  min-height: 50px;
+  max-height: 50px;
+  border-radius: 200px;
+  position: fixed;
+}
+
+#box2
+{
+  margin-top: 50px;
+  margin-right:500px;
+  float: right;
+} 
+
+#addanewuser
+{
+  margin-top: 50px;
+  margin-right:500px;
+  float: right;
+} 
+
+
+#text
+{
+  position: relative;
+  left: 3%;
+  top: 10%;
+  width: 70%;
+  color: #DCD9D9;
+}
+
+a#menubutton
+{
+  text-decoration: none;
+  position: relative;
+  left: 10%;
+  color: #E6DEDC;
+
+}
+
+a#orderbutton
+{
+  text-decoration: none;
+  position: relative;
+  left: 30%;
+  color: #E6DEDC;
+}
+
+a#userbutton
+{
+  text-decoration: none;
+  position: relative;
+  left: 50%;
+  color: #E6DEDC;
+}
+
+a#logoutbutton
+{
+  text-decoration: none;
+  position: relative;
+  left: 70%;
+  color: #E6DEDC;
+}
+
+div#buttons
+{
+  text-align: center;
+  margin: auto;
+  position: fixed;
+}
+
+div#addanitem
+{
+  width: 120px;
+  min-width: 120px;
+  background: rgba(250,250,255,.8);
+  box-shadow: 0 15px 20px rgba(0,0,0,2);
+  padding: 2px;
+  border-radius: 190px;
+  text-align: center;
+  margin: auto;
+  position: fixed;
+  float: left;
+  margin-top: 40px;
+}
+
+a#addanitem
+{
+  text-decoration: none;
+  color:black ;
+}
+
+div#menugobutton
+{
+  width: 120px;
+  background: rgba(250,250,255,.8);
+  box-shadow: 0 15px 20px rgba(0,0,0,2);
+  padding: 2px;
+  border-radius: 190px;
+  text-align: center;
+  margin: auto;
+  position: fixed;
+  float: left;
+  margin-top: 40px;
+}
+
+a#menugobutton
+{
+  text-decoration: none;
+  color:black ;
+}
+
+div#upload
+{
+  width: 380px;
+  background: rgba(250,250,255,.8);
+  box-shadow: 0 15px 20px rgba(0,0,0,2);
+  padding: 30px;
+  text-align: left;
+  /*margin-left: 500px;*/
+  margin: 0 auto;
+}
+
+.star
+{
+  color: red;
+}
+
+.table
+{
+  border-collapse: collapse;
+  margin: 30px auto;
+  font-size: 150%;
+  width: 80%;
+}
+
+.table1
+{
+  border-collapse: collapse;
+  margin: 30px auto;
+  font-size: 150%;
+  width:1300px;
+}
+
+td,th
+{
+  border: 2px solid black;
+}
+
+a#delete
+{
+  text-decoration: none;
+}
+
+a#update
+{
+  text-decoration: none;
+}
+
+a#detail
+{
+  text-decoration: none;
+}
+
+div#selection
+{
+  float: left;
+}
+
+div#paymentbox
+{
+  font-size: 180%;
+  background: rgba(250,250,255,.8);
+  box-shadow: 0 15px 20px rgba(0,0,0,2);
+  width: 500px;
+  min-width: 500px;;
+  height: 480px; 
+  min-height: 480px;
+  margin-left: 450px;
+}
+
+div#paymentgobutton
+{
+  width: 85px;
+  height: 30px;
+  background-color: yellow;
+  box-shadow: 0 15px 20px rgba(0,0,0,2);
+  border-radius: 190px;
+  text-align: center;
+  margin: auto;
+  padding-top: 10px;
+}
+
+a#paymentgobutton
+{
+  text-decoration: none;
+  color:black ;
+  font-size: 20px;
+  color: red;
+  font-weight:bold;
+}
+
+
+
